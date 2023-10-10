@@ -8,13 +8,13 @@ It should take approximately 3 hours to finish this task, but let us know if you
 
 If you do not have time to finish the task, please leave comments describing how you would have implemented the missing
 parts, and/or why you have made certain compromises.
-# The exercise
+### The exercise
 
 In our platform we have staff members that can login and access their profile page.
 We want you to recreate this profile page based on the design ([Link to design](https://www.figma.com/file/hfzA73ocJ6gGyB7flia4RZ/front-end-test?type=design&node-id=1-516&mode=design&t=wkFsycnNr6tWvXT6-0)), and make sure that it meets all standards for good code
 and implementation.
 
-In the following exercise, certain design elements of the solution are provided via the design in Figma, while other elements of the solutionm, has been left out of the design for you to come up with an implementation.
+In the following exercise, certain design elements of the solution are provided via the design in Figma, while other elements of the solution, has been left out of the design for you to come up with an implementation.
 
 The solution should:
 
@@ -48,19 +48,14 @@ The data for the view is coming from and endpoint, which you will mock using the
     }
 ```
 
-## Requirements:
+### Requirements:
 
-* Use Typescript to represent the provided data
-
-Responsiveness:
 * Ensure that the profile page is responsive and looks good on both desktop and mobile devices.
-
-User Interface:
 * Use any JS framework or vanilla JS for creating the solution (big plus if you are using Vue.js, but it is certainly not a requirement!).
 * You can use any CSS frameworks (e.g., Tailwind) or custom CSS to style the page.
 
-# How to hand it in
+### How to hand it in 
 
-Please upload your solution to a git repository (BitBucket, GitLab or GitHub) and provide a README.md file with
+Please upload your solution to a git repository (BitBucket, GitLab or GitHub) and provide a README file with
 documentation, including how to run your solution, then send us a link to the repo (make sure it's public or otherwise
 accessible).
