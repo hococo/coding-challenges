@@ -20,6 +20,13 @@ The solution should:
 * Provide functionality to add a post. This added post should appear in the list of posts.
 * Provide functionality to edit posts. The changes should be reflected in the list of posts.
 
+Optional - feel free to tackle these additional challenges, or consider how you would solve them if you had more time:
+
+* Provide functionality to search posts.
+* Add some error handling, in case the API throws an error.
+* Display other attributes of each post, such as tags, views or reactions.
+* Provide options to sort the list of posts.
+
 The data for posts should come from this API: [DummyJSON - Posts](https://dummyjson.com/docs/posts).
 
 ### Requirements:
