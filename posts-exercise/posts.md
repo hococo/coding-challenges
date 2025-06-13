@@ -3,13 +3,13 @@ Posts exercise
 
 This exercise is meant to show a command of the technologies we use, as well as a keen head for problem solving and attention to detail. We ask to have the challenge returned within **three days** of it being assigned.
 
-Note down the amount of time it takes you to finish the task. If you do not have time to finish it all, please leave comments describing how you would have implemented the missing parts, and/or why you have made certain compromises.
+Aim to do the task within 4 hours. If you do not have time to finish it all, please leave comments describing how you would have implemented the missing parts, and/or why you have made certain compromises.
 
 ### The exercise
 
 In this exercise, you will be working with a list of posts.
 
-We want you to recreate this list based on the design here: [Figma](https://www.figma.com/file/hfzA73ocJ6gGyB7flia4RZ/front-end-test?type=design&node-id=1-516&mode=design&t=wkFsycnNr6tWvXT6-0).
+We want you to recreate this list based on the design here: [Figma](https://www.figma.com/design/ynXV5sipW3kKhCnoRBFtOu/front-end-task-posts?t=QsYkOxdVS9Giw8hJ-1).
 
 In the following exercise, certain design elements of the solution are provided via the design in Figma, while other elements of the solution have been left out in order for you to come up with an implementation. Try to replicate existing elements as accurately as possible, and try to match the styling of any additional elements you need to create to the existing design.
 
