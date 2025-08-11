@@ -6,15 +6,15 @@ tackling abstract challenges. We ask to have the challenge returned within a max
 
 It should take approximately 3 hours to finish this task, but let us know if you need more time. 
 
-The task is divided into two parts, the first meant to challenge you to show API skills and backend system design while
-the second is a small frontend task to evaluate how well you can consume the API you have just created in a good way.
+The task is meant to challenge you to show API skills and backend system design. There is also a second, **optional**, frontend
+bonus task designed to evaluate how well you can consume the API you have just created in a good way.
 
 Please use PHP to solve this task, using a framework of your choice but preferably using Laravel.
 
 If you do not have time to finish the task, please leave comments describing how you would have implemented the missing
 parts.
 
-# Part One 
+# Creating the API
 
 In the PropTech business we need to model the relationships between corporations, buildings and properties 
 (rental units) so that we can accurately reflect reality and give our customers a structure they feel comfortable 
@@ -62,7 +62,15 @@ The nodes must observe these rules:
 4. Only one Tenancy Period can be active in a Property at a time.
 5. A Tenancy Period can have a maximum of 4 tenants at any time.
 
-# Part Two
+In addition, try to consider the following things:
+
+1. Authentication and authorization.
+2. Validation and API responses.
+3. Best practices.
+
+# Optional Task
+
+If you have a lot of time left over after creating the API, feel free to complete this **completely optional** assignment.
 
 Now that you have an API to work with, let's create a quick and dirty UI we can use to move nodes around.
 
